@@ -84,6 +84,7 @@
 *.tif                binary
 *.tiff               binary
 *.webp               binary
+Assets/*/*.tga
 
 # Compressed Archive
 *.7z                binary
